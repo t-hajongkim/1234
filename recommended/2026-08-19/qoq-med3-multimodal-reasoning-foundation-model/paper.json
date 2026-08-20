@@ -1,0 +1,24 @@
+{
+  "id": "qoq-med3-multimodal-reasoning-foundation-model",
+  "title": "QoQ-Med3: a multimodal reasoning foundation model for clinical analysis",
+  "authors": [
+    "David Dai",
+    "Jeannie She",
+    "Jiaee Cheong",
+    "Xing Han",
+    "Carl Harris",
+    "Haowen Wei",
+    "Farzan Vahedifard",
+    "Suchi Saria",
+    "Robert Stevens",
+    "Paul Liang"
+  ],
+  "venue": "npj Digital Medicine",
+  "year": 2026,
+  "citations": 0,
+  "percentile": null,
+  "source": "OpenAlex",
+  "url": "https://doi.org/10.1038/s41746-026-02945-3",
+  "abstract": "Multimodal reasoning-based foundation models (MRFMs) hold considerable promise for addressing key challenges in medical practice, yet their readiness for real-world deployment remains insufficiently explored. To bridge this gap, we developed two MRFMs (QoQ-Med3 and QoQ-Med3-MIMIC) and systematically evaluated their (i) generalizability to previously unseen clinical modalities and tasks, (ii) transferability to held-out datasets collected across different clinical sites, and (iii) robustness to real-world challenges like cross-site heterogeneity. Our results demonstrate that these models can learn transferable representations across modalities, tasks, and heterogeneous clinical datasets. QoQ-Med3 achieves an overall balanced accuracy of 71.3% and a F1 of 0.349, superceding all open-source and closed-source models, including GPT-4o, with particularly pronounced gains in understudied modalities such as ultrasound and mammography. The model trained on public clinical data only generalized to both the held-out MIMIC-IV and the private JHU PMAP dataset collected at Johns Hopkins University hospital. In addition, the extrinsic hallucination rates are reduced by 44.4 percent after training. Collectively, our findings highlight both the potential of multimodal reasoning-based clinical foundation models and the critical next steps required to make them robust and reliable for real-world deployment.",
+  "axes": ["기관 간 일반화", "이질적 데이터 강건성"]
+}
