@@ -1,0 +1,13 @@
+{
+  "id": "ovcf-multimodal-llm-triage-posture-video",
+  "title": "A Multimodal large language model-based triage tool for osteoporotic vertebral compression fractures using posture and movement videos",
+  "authors": ["Meiwei Zhang", "Xiaoqing Jin", "Shicai Xu", "Xinlin Huang", "\u949f\u653f\u5229", "Yehui Liao", "Qiang Tang", "Yu Zou", "Kaijia Huang", "L Liu", "Yang Li", "Yingjun Yang"],
+  "venue": "npj Digital Medicine",
+  "year": 2026,
+  "citations": 0,
+  "percentile": null,
+  "source": "OpenAlex",
+  "url": "https://doi.org/10.1038/s41746-026-03110-6",
+  "abstract": "Osteoporotic vertebral compression fracture (OVCF) is common yet frequently underdiagnosed due to nonspecific symptoms and limited access to definitive imaging. We developed a two-stage screening framework that integrates prompt-guided multimodal large language model (LLM) feature extraction with machine-learning classification. In a multicenter cohort of 204 participants (102 OVCF, 102 controls), standardized posture images and functional videos were processed using pose estimation. A multimodal LLM, guided by structured prompts, generated quantitative scores for alignment, symmetry, movement coordination, and pain response. These scores, combined with clinical variables, were used to train multiple classifiers. On geographically independent external validation ( n = 56), the Gradient Boosting model achieved an area under the receiver operating characteristic curve (AUC) of 0.838 (95% CI: 0.712\u20130.940), sensitivity of 89.3%, and specificity of 71.4%, with negligible internal-to-external AUC degradation (\u0394AUC < 0.001). Predicted probabilities were well-calibrated (Brier score 0.168 on external validation), and post-hoc isotonic recalibration further reduced miscalibration in the extreme-probability tails (Brier 0.151, expected calibration error 0.041) while preserving discrimination. Score\u2013explanation concordance analysis revealed Pearson correlations exceeding 0.97 for three of six evaluated indicators. Furthermore, differential vocabulary analysis confirmed that the LLM spontaneously generated clinically coherent language distinguishing OVCF from control narratives. This framework translates home-captured posture and movement data into interpretable quantitative features, enabling accurate triage of symptomatic OVCF without direct imaging. The approach could prioritize those at high probability for confirmatory imaging and timely intervention in community and primary care settings.",
+  "axes": ["외부 검증/일반화", "다기관 코호트"]
+}
