@@ -1,0 +1,13 @@
+{
+  "id": "medgemma-open-vision-language-model",
+  "title": "An open vision-language model for diverse medical applications",
+  "authors": ["Andrew Sellergren", "Sahar Kazemzadeh", "Fereshteh Mahvar", "Atilla P. Kiraly", "Madeleine Traverse", "Timo Kohlberger", "Chufan Gao", "Ronnachai Jaroensri", "Shawn Xu", "Fayaz Jamil", "Cían Owen Hughes", "Charles T. Lau"],
+  "venue": "Nature Medicine",
+  "year": 2026,
+  "citations": 0,
+  "percentile": null,
+  "source": "OpenAlex",
+  "url": "https://doi.org/10.1038/s41591-026-04626-w",
+  "abstract": "Abstract Artificial intelligence has high potential for impact in healthcare applications, but its training and deployment are challenging due to diverse data, a complex spectrum of possible tasks and important privacy needs. High-performing foundation models that enable data-efficient fine-tuning for diverse downstream tasks can meaningfully accelerate development in this domain. We introduce MedGemma, a collection of medical vision-language foundation models based on Gemma 3. MedGemma demonstrates advanced medical understanding and reasoning across images and text and multiple medical imaging domains, exceeding the performance of similarly sized generative models while maintaining the general capabilities of the Gemma base models. For out-of-distribution tasks, MedGemma achieves improvements of 2.6–10% in medical image question answering, 15.5–18.1% in chest X-ray finding classification and 10.8% in agentic evaluations compared with the base models. Our results show that fine-tuning MedGemma can be more effective than fine-tuning the base Gemma 3 model for medical tasks, particularly in the setting of limited training data. We additionally introduce MedSigLIP, a medically tuned vision encoder derived from SigLIP. MedSigLIP powers the visual understanding capabilities of MedGemma and, as an encoder, achieves performance comparable to or better than that of many specialized medical image encoders. Taken together, the MedGemma collection provides a strong foundation of medical image and text capabilities, with the potential to accelerate medical research and the development of downstream applications.",
+  "axes": ["데이터 효율적 미세조정", "기관 간 일반화"]
+}
