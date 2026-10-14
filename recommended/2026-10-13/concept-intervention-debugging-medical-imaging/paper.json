@@ -1,0 +1,13 @@
+{
+  "id": "concept-intervention-debugging-medical-imaging",
+  "title": "Beyond Explanation: Debugging Medical Imaging Models via Concept Intervention",
+  "authors": ["Samrajya Thapa", "Daniel J. Quest", "Timothy L. Kline", "Carrie L. Langstraat", "Emanuel C. Trabuco", "Wei Le"],
+  "venue": "MICCAI",
+  "year": 2026,
+  "citations": 0,
+  "percentile": null,
+  "source": "arXiv",
+  "url": "http://arxiv.org/abs/2610.09031v1",
+  "abstract": "Medical imaging models often operate as black boxes, limiting interpretability and systematic debugging. We introduce an easy-to-use, plug-and-play framework for concept-based interpretation and model refinement. By aligning a single-modality encoder to BioMedCLIP, we construct a Concept Bottleneck Model (CBM) that enables concept-level interventions. These interventions allow us to isolate causal versus spuriously correlated concepts, validate insights with domain experts, and generate counterfactual samples for targeted fine-tuning. We evaluate our framework on a Mayo Clinic ultrasound dataset and the CheXpert 5x200 chest X-ray dataset. Results demonstrate that concept intervention enables reliable model diagnosis while maintaining, and occasionally improving predictive performance via guided fine-tuning. Our findings highlight the practical value of this framework for controlled, interpretable refinement of clinical deep learning models.",
+  "axes": ["허위 상관·교란", "소규모 코호트 평가 신뢰도"]
+}
