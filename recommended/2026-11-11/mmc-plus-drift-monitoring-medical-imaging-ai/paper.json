@@ -1,0 +1,25 @@
+{
+  "id": "mmc-plus-drift-monitoring-medical-imaging-ai",
+  "title": "Scalable drift monitoring in medical imaging AI",
+  "authors": [
+    "Jameson Merkow",
+    "Felix J. Dorfner",
+    "Xiyu Yang",
+    "Alexander Ersoy",
+    "Giridhar Dasegowda",
+    "Mannudeep K. Kalra",
+    "Matthew P. Lungren",
+    "Christopher P. Bridge",
+    "Ivan Tarapov"
+  ],
+  "venue": "npj Digital Medicine",
+  "year": 2026,
+  "citations": 10,
+  "percentile": null,
+  "source": "OpenAlex",
+  "url": "https://doi.org/10.1038/s41746-026-03301-1",
+  "abstract": "The integration of artificial intelligence (AI) into clinical medical imaging has advanced diagnostics but also poses challenges in maintaining long-term reliability as input data change. To address this, we present MMC+, a modular framework for scalable drift monitoring that builds on our CheXstray framework for real-time drift detection using multi-modal data concordance (MMC). MMC+ provides a flexible architecture that enables cost-effective continuous performance monitoring in real-world healthcare settings. The framework’s capabilities include aggregating information from multiple data streams using statistical tests or distance metrics, leveraging foundation model embeddings to remove the need for site-specific encoder training, and quantifying uncertainty to better communicate drift significance. Validated with data from Massachusetts General Hospital during the COVID-19 pandemic, MMC+ effectively detects significant data shifts that correlate with performance changes and indicates when AI systems may deviate from acceptable performance bounds. The code for MMC+ is publicly available (Link: https://github.com/FJDorfner/MedImaging-ModelDriftMonitoring/tree/MMC_plus ), promoting broader adoption of AI solutions in clinical settings. Our framework significantly advances drift detection while promoting transparency and collaboration in clinical AI research.",
+  "axes": [
+    "기관·장비 간 분포 이동"
+  ]
+}

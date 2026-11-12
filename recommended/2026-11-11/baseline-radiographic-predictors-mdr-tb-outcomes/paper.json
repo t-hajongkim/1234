@@ -1,0 +1,28 @@
+{
+  "id": "baseline-radiographic-predictors-mdr-tb-outcomes",
+  "title": "Baseline radiographic and microbiologic predictors of treatment outcomes in a shortened all-oral regimen for MDR/RR-TB",
+  "authors": [
+    "Edmund Qian-Long Shen",
+    "Stephane Mpinda",
+    "Llang Bridget Maama",
+    "Meseret Tamirat",
+    "Sebakeng Phate",
+    "Lawrence Oyewusi",
+    "Allison N. LaHood",
+    "Letizia Trevisi",
+    "Matthew L. Romo",
+    "Elna Osso",
+    "Michael Rich",
+    "Carole Diane Mitnick"
+  ],
+  "venue": "Nature Communications",
+  "year": 2026,
+  "citations": 0,
+  "percentile": null,
+  "source": "OpenAlex",
+  "url": "https://doi.org/10.1038/s41467-026-78700-9",
+  "abstract": "WHO-endorsed shortened, all-oral regimens have improved tolerability and outcomes for MDR/RR-TB treatment, but predictors of poor outcomes remain incompletely-characterized. We conducted a prospective cohort study (NCT05871489) of adults with bacteriologically-confirmed pulmonary MDR/RR-TB treated with a shortened, all-oral regimen in Lesotho. We evaluated baseline microbiologic and radiographic features and their associations with time-to-culture-conversion, end-of-treatment outcomes, and final post-treatment outcomes. Among 238 participants (median age 41 [IQR:31–56], 29% female, 62% with HIV), there were 27 unfavorable outcomes (20 deaths, 3 treatment failures, 4 recurrences). 142 of 148 (95.9%) with positive baseline cultures experienced conversion within four months. Fibrosis, cavitation, bilateral disease, and high smear grade were associated with delayed culture conversion and lower odds of treatment success. Bilateral disease was more strongly associated with unfavorable outcomes in those without HIV; fibrosis and high smear grade showed stronger associations among those with HIV. Cavitation with high smear grade (uOR=0.29, 95%CI:0.11–0.78; aOR=0.39, 95%CI:0.14-1.14), and severe fibrocavitary disease (multi-lobar fibrosis and at least one cavity ≥5 cm) (uOR=0.20, 95%CI:0.07–0.64; aOR=0.26, 95%CI:0.07-0.94) were negatively associated with favorable final outcomes. These findings suggest that baseline sputum and chest radiographic features—particularly in-combination—identify higher-risk patients and may inform risk-adapted strategies for shortened all-oral MDR/RR-TB regimens.",
+  "axes": [
+    "영상 소견의 임상 예후"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "night-shift-fatigue-ai-assistance-chest-radiography",
+  "title": "From dusk till dawn?—Night shift-induced fatigue, diagnostic performance, and AI assistance in chest radiography",
+  "authors": [
+    "Robert Malte Siepmann",
+    "Mahta Khoobi",
+    "Marc Sebastian von der Stück",
+    "Felix Barajas Ordonez",
+    "Anca-Maria Theis",
+    "Malin Cubukcu",
+    "Maher E. Deeb",
+    "Manuel Post",
+    "Annika Rastkhiz",
+    "Eric Corban",
+    "Matthias Reen",
+    "David Topp"
+  ],
+  "venue": "European Radiology",
+  "year": 2026,
+  "citations": 0,
+  "percentile": null,
+  "source": "OpenAlex",
+  "url": "https://doi.org/10.1007/s00330-026-12969-8",
+  "abstract": "OBJECTIVES: To evaluate the impact of night shift-induced fatigue on radiology residents' diagnostic performance and to assess whether AI assistance offsets potential performance loss. MATERIALS AND METHODS: In this prospective intra-individual reader study, ten radiology residents (mean experience: 35 months; three women) interpreted three sets of 33 chest radiographs before and after a first-call on-site night shift. Sessions included two pre-shift readings (morning/afternoon, without AI) and two post-shift readings (morning, with/without AI). Eye tracking captured fixation duration and saccade count, and fatigue was defined as a ≥ 5% reduction in the slope of the saccadic main sequence between pre- and post-shift sessions. Diagnostic accuracy (Cohen's κ vs. expert majority vote), efficiency (mean reporting time per radiograph), eye-tracking metrics, and user surveys were analyzed with generalized linear mixed models and post-hoc Tukey-adjusted pairwise comparisons. RESULTS: Six of ten radiology residents were classified as fatigued, among whom diagnostic accuracy declined significantly post-shift (from κ = 0.71 ± 0.05 to κ = 0.61 ± 0.10; p < 0.001), with reduced fixation duration (p = 0.010) and saccade count (p = 0.015). Non-fatigued readers showed a smaller decline in accuracy (from κ = 0.72 ± 0.03 to κ = 0.65 ± 0.03; p = 0.037). Reporting times remained stable pre- and post-shift (p ≥ 0.463). AI assistance did not significantly improve diagnostic accuracy (Δκ = 0.03-0.04; p ≥ 0.525). Reporting times were numerically shorter with AI assistance in fatigued readers (Δ6.3 s; p = 0.122) and significantly shorter in non-fatigued readers (Δ9.9 s; p = 0.031). Surveys indicated mental exhaustion and reduced focus in fatigued readers. CONCLUSION: Night-shift-induced fatigue impaired diagnostic accuracy without slowing reporting speed, raising patient safety concerns. The utilized AI model did not restore pre-shift performance. KEY POINTS: Question Night-shift-induced fatigue may reduce diagnostic accuracy of radiology residents in chest radiography, yet its objective quantification and the compensatory potential of AI assistance remain unclear. Findings Fatigue, based on eye-tracking measurements of oculomotor efficiency, reduced diagnostic accuracy after night shifts without slowing reporting speed; AI assistance did not significantly improve accuracy. Clinical relevance Night-shift-induced fatigue can lower diagnostic accuracy in chest radiography despite unchanged reporting speed, posing patient-safety risks. The AI model used in this study cannot fully compensate for fatigue-related performance decline.",
+  "axes": [
+    "판독자 피로·AI 보조"
+  ]
+}
